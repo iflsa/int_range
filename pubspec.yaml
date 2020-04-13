@@ -1,0 +1,8 @@
+name: int_range
+description: A simple int extension to support ranges in dart. Can be used to easily loop through ranges of numbers.
+version: 1.0.1
+homepage: https://github.com/miloszratajczyk/int_range
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+dev_dependencies:
+  test: any
